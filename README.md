@@ -23,7 +23,7 @@ Class location: C3-029 (IM Lab)
 - [Weekly schedule](https://intro.nyuadim.com/)
 - [Example sketches](https://editor.p5js.org/michaelshiloh/sketches)
 - [Lecture notes](lectureNotes.md)
-- [Previous sessions](previousSessions/previousSessions.md)
+
 
 **Everything here is subject to change**
 
