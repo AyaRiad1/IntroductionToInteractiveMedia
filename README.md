@@ -2,7 +2,7 @@
 ## Interactive Media Program    
 ## Course title: Introduction to interactive Media  
 Course number: IM-UH 1010   
-Section: 1    
+Section: 003   
 Credit Hours: 4         
 Prerequisites: None       
 
